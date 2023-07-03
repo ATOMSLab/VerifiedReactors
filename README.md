@@ -1,4 +1,10 @@
 # KeYmaeraX_Project
-Every version of KeYmaera X can be accessed here https://github.com/LS-Lab/KeYmaeraX-release/releases, although we specifically utilized version 5.0.2. To use it, first download the appropriate version, and then input the command 'java -jar keymaerax.jar' into the terminal. 
+This project was executed using KeYmaera X, a theorem prover specifically designed for hybrid systems. Each release of KeYmaera X is accessible on [GitHub](https://github.com/LS-Lab/KeYmaeraX-release/releases). For this project, we specifically employed version 5.0.2. 
 
-For additional information, refer to the documentation available here: https://keymaerax.org/
+To replicate our setup:
+
+1. [Download KeYmaera X version 5.0.2](https://github.com/LS-Lab/KeYmaeraX-release/releases/download/5.0.2/keymaerax.jar).
+2. Launch KeYmaera X by entering the command `java -jar keymaerax.jar` into your terminal.
+3. Once the application starts, load the desired model by clicking on the "New Model" button in the KeYmaera X interface.
+
+KeYmaera X has a comprehensive [documentation](https://keymaerax.org/) providing further information and user guidance. Explore it for a deeper understanding and more effective use of the theorem prover.
