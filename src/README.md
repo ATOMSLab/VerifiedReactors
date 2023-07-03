@@ -1,1 +1,1 @@
-
+The 'Batch' file contains proofs for 1st order, parallel, and series reactions. Additionally, the 'CSTR' folder encompasses proofs for numerical experiments executed within the CSTR reactor. Please explore each of these resources for further details on our proofing process and methodologies.
